@@ -1,7 +1,3 @@
-
-### 2. Palindrom Kontrolü
-
-```markdown
 # Palindrom Kontrolü
 
 Bu Python uygulaması, kullanıcının girdiği bir kelimenin palindrom olup olmadığını kontrol eder. Bir kelime palindromdur, eğer tersten okunduğunda da aynı kelime ortaya çıkıyorsa.
